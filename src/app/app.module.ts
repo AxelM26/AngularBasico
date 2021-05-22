@@ -7,7 +7,7 @@ import { heroesModule } from './heroes/heroes.module';
 import { contadorModule } from './Contador/contador/contador.module';
 import { DbzModule } from './dbz/dbz.module';
 
-import { dbzService } from './dbz/dbz.service';
+import { dbzService } from './dbz/service/dbz.service';
 
 
 @NgModule({
